@@ -1,0 +1,5 @@
+USER_POSTGRES = 'admin'
+PASS_POSTGRES = 'admin'
+DATABASE_NAME = 'python_service'
+SERVER_DB_PORT = '5433'
+SERVER_DB_HOST = 'localhost'
