@@ -1,3 +1,5 @@
+# Тестовое задание brandpol
+## Запуск проекта:
 1. Клонировать проект
 ```
 git clone https://github.com/taurin-240/brandpol.git
